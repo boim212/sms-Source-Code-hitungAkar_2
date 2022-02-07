@@ -31,7 +31,7 @@ public class HitungAkar_2 {
         akar = hitungAkar_2(masuk);
         System.out.println("");
         System.out.printf ("Akar dari %f adalah adalah %f \n", masuk , akar);
-        System.out.println(" 2020 Java 205314020 ");
+        System.out.println(" 2020 Java Skuy");
     }
     
 }
